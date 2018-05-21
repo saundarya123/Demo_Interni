@@ -1,0 +1,20 @@
+/*******************************************
+Statement - Addition of two number
+Programmer - Vineet Choudhary
+Written For - https://turboc.codeplex.com
+********************************************/
+
+#include <stdio.h>
+#include <conio.h>
+
+void main()
+{
+	int a, b;
+	clrscr();
+	for(a=0;a<=5;a++)
+	{
+	a=a+b;
+	}
+	printf("sum is=%d",a);
+	getch();
+}

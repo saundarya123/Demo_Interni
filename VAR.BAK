@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+clrscr();
+int i;
+i=
+printf("%d\n",i++);
+printf("%d\n",i++);
+printf("%d\n",--i);
+printf("%d\n",--i);
+printf("%d\n",++i);
+printf("%d\n",i++);
+getch();
+}
